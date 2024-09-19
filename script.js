@@ -32,4 +32,4 @@ function convertTemp() {
     }
 
     document.getElementById('resultTemp').textContent = resultTemp.toFixed(2);
-});
+}
